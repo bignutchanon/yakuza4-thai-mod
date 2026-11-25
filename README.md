@@ -6,7 +6,7 @@ Full Thai translation of Yakuza 4 Remastered: main story, NPC dialogue, substori
 
 ## ดาวน์โหลด / Download
 
-โหลดไฟล์ `Yakuza4-Thai-Mod-v2.2.zip` จากหน้า [Releases](../../releases/latest)
+โหลดไฟล์ zip ของเวอร์ชันล่าสุดจากหน้า [Releases](../../releases/latest)
 
 ## การติดตั้ง / Installation
 
@@ -27,6 +27,7 @@ Full Thai translation of Yakuza 4 Remastered: main story, NPC dialogue, substori
 ## หมายเหตุ / Notes
 
 - `dinput8.dll` แก้หน่วยความจำเกมตอนเล่นเท่านั้น ไม่แตะไฟล์เกม แอนตี้ไวรัสอาจเตือน = false positive
+- ซอร์สของ `dinput8.dll` อยู่ในโฟลเดอร์ [`proxy-dll/`](proxy-dll/) (อ่าน/build เองได้) · Source code of `dinput8.dll`: [`proxy-dll/`](proxy-dll/)
 - ถ้า Steam อัปเดตเกม หรือกด Verify integrity ตัวแปลจะหาย ต้องลงใหม่
 - ต้องมีเกม Yakuza 4 Remastered (Steam) เวอร์ชันภาษาอังกฤษ
 
